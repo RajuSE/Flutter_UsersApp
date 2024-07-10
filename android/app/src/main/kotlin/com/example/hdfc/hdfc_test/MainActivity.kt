@@ -1,4 +1,4 @@
-package com.example.hdfc.hdfc_test
+package com.example.devxraju_flutter_provider
 
 import io.flutter.embedding.android.FlutterActivity
 

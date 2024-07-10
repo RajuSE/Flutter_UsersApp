@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:hdfc_test/presentation/utils/styles.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/styles.dart';
 
 import 'app_colors.dart';
 

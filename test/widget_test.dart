@@ -10,9 +10,9 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:hdfc_test/presentation/home_screen.dart';
-import 'package:hdfc_test/presentation/providers/user_provider.dart';
-import 'package:hdfc_test/presentation/utils/text_field.dart';
+import 'package:devxraju_flutter_provider/presentation/home_screen.dart';
+import 'package:devxraju_flutter_provider/presentation/providers/user_provider.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/text_field.dart';
 import 'package:http/http.dart';
 import 'package:http/testing.dart';
 import 'package:provider/provider.dart';

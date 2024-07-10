@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hdfc_test/domain/user_service.dart';
+import 'package:devxraju_flutter_provider/domain/user_service.dart';
 import 'package:provider/provider.dart';
 
 import '../../data/data_user.dart';

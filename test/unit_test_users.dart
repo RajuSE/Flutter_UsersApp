@@ -1,9 +1,9 @@
 
 import 'dart:convert';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:hdfc_test/data/data_user.dart';
-import 'package:hdfc_test/domain/user_service.dart';
-import 'package:hdfc_test/presentation/providers/user_provider.dart';
+import 'package:devxraju_flutter_provider/data/data_user.dart';
+import 'package:devxraju_flutter_provider/domain/user_service.dart';
+import 'package:devxraju_flutter_provider/presentation/providers/user_provider.dart';
 
 // file which has the getNumberTrivia function
 import 'package:http/http.dart';

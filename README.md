@@ -1,6 +1,3 @@
-# hdfc_test
-
-A new Flutter project.
 
 ## Features
 1. UI changes for Dark mode ON & OFF

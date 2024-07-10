@@ -1,12 +1,12 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:hdfc_test/presentation/details_screen.dart';
-import 'package:hdfc_test/presentation/providers/user_provider.dart';
-import 'package:hdfc_test/presentation/utils/app_colors.dart';
-import 'package:hdfc_test/presentation/utils/app_theme.dart';
-import 'package:hdfc_test/presentation/utils/styles.dart';
-import 'package:hdfc_test/presentation/utils/ui_utils.dart';
+import 'package:devxraju_flutter_provider/presentation/details_screen.dart';
+import 'package:devxraju_flutter_provider/presentation/providers/user_provider.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/app_colors.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/app_theme.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/styles.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/ui_utils.dart';
 import 'package:provider/provider.dart';
 
 class HomeScreen extends StatefulWidget {
