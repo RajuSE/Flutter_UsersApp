@@ -10,6 +10,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:hdfc_test/domain/service_locator_getit.dart';
 import 'package:hdfc_test/presentation/home_screen.dart';
 import 'package:hdfc_test/presentation/providers/user_provider.dart';
 import 'package:hdfc_test/presentation/utils/text_field.dart';
@@ -18,6 +19,7 @@ import 'package:http/testing.dart';
 import 'package:provider/provider.dart';
 
 void main() {
+  setupLocator();
   testWidgets('test_users_api_check_users_loaded', (WidgetTester tester) async {
     // Build our app and trigger a frame.
     await tester.runAsync(() async {

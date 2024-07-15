@@ -2,6 +2,7 @@
 import 'dart:convert';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hdfc_test/data/data_user.dart';
+import 'package:hdfc_test/domain/service_locator_getit.dart';
 import 'package:hdfc_test/domain/user_service.dart';
 import 'package:hdfc_test/presentation/providers/user_provider.dart';
 
@@ -12,6 +13,7 @@ import 'package:http/testing.dart';
 import 'widget_test.dart';
 
 void main() {
+  setupLocator();
   group('Users Unit Test', () {
 
     test('returns number of users when http response is successful',

@@ -39,6 +39,7 @@ dependencies:
   provider:
   delayed_display:
   flutter_svg:
+  get_it:
 
 
 dev_dependencies:
