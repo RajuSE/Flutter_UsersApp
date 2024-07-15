@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:hdfc_test/data/data_updateuser.dart';
+import 'package:devxraju_flutter_provider/data/data_updateuser.dart';
 import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
 import '../data/data_user.dart';

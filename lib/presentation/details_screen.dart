@@ -1,12 +1,12 @@
 import 'package:delayed_display/delayed_display.dart';
 import 'package:flutter/material.dart';
-import 'package:hdfc_test/data/data_user.dart';
-import 'package:hdfc_test/presentation/providers/user_provider.dart';
-import 'package:hdfc_test/presentation/utils/app_colors.dart';
-import 'package:hdfc_test/presentation/utils/filled_button.dart';
-import 'package:hdfc_test/presentation/utils/styles.dart';
-import 'package:hdfc_test/presentation/utils/text_field.dart';
-import 'package:hdfc_test/presentation/utils/ui_utils.dart';
+import 'package:devxraju_flutter_provider/data/data_user.dart';
+import 'package:devxraju_flutter_provider/presentation/providers/user_provider.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/app_colors.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/filled_button.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/styles.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/text_field.dart';
+import 'package:devxraju_flutter_provider/presentation/utils/ui_utils.dart';
 import 'package:provider/provider.dart';
 
 class DetailsScreen extends StatefulWidget {
