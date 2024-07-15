@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:hdfc_test/domain/service_locator.dart';
 import 'package:hdfc_test/domain/user_service.dart';
 import 'package:provider/provider.dart';
 
 import '../../data/data_user.dart';
 
-final service = UserService();
+final service = ServiceLocator.userService;
 class UserProvider extends ChangeNotifier {
   bool isLoading = false;
   bool isError = false;
