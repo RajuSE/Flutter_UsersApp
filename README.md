@@ -5,6 +5,11 @@
 3. Unit testing api call
 4. Flutter Provider for state management
 
+Source code is self-explanatory. You can watch full video my Youtube channel here:
+https://www.youtube.com/watch?v=lnY5EB3Xf_Q
+
+Here's short preview:
+
 https://github.com/user-attachments/assets/22ba5b1f-7f09-4752-885d-b90f2931283b
 
 
